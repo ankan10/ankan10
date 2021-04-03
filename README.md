@@ -1,6 +1,6 @@
 ![Ankan Chanda's-cover](./cover-image.png)
 
-## 🧔 About Me
+## 👨🏻‍💻 About Me
 
 <!-- - 🔭 I’m currently working on [Recess](https://github.com/Jaagrav/Recess) -->
 - 🌱 I’m currently learning **React Native, Android, Django, Kubernetes and React JS**
@@ -35,8 +35,6 @@ Here are some of my projects on Github that I am proud of:
 ## 📚 My Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankan10&layout=compact&show_icons=true&theme=dark)](https://github.com/ankan10/ankan10)
-
-
 
 ![Skill](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/)
 ![Skill](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
