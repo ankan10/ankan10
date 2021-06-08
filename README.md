@@ -1,9 +1,9 @@
-## 👨🏻‍💻 About Me
+## Hey, I'm Ankan! <img src="https://rahulgrover99.github.io/images/hey.gif" width="32px">
 
 <!-- - 🔭 I’m currently working on [Recess](https://github.com/Jaagrav/Recess) -->
-- 🌱 I’m currently learning **React Native, Android, Django, Kubernetes and React JS**
+- 🌱 I’m currently learning **React JS, Python, UI/UX**
 
-<!-- - 👯 I’m looking to collaborate on **React/Vue/Vanilla Projects** -->
+- 👯 I’m looking to collaborate on **Java/Android/React Projects**
 
 <!-- - 👨‍💻 All of my projects are available at [https://xjaagrav.vercel.app/projects](https://xjaagrav.vercel.app/projects) -->
 
@@ -17,7 +17,7 @@
 
 <!-- - 📄 My Resume [https://drive.google.com/file/d/10z7nWMOMKMj2KtOxszcxYI2b0sQrxFpn/view?usp=sharing](https://drive.google.com/file/d/10z7nWMOMKMj2KtOxszcxYI2b0sQrxFpn/view?usp=sharing) -->
 
-<!-- - ⚡ Fun fact **People often call me an alien** -->
+- 🌈 **INTJ-A**
 
 <!-- ## ✍ My Work
 
