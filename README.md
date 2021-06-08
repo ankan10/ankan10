@@ -1,7 +1,7 @@
 ## Hey, I'm Ankan! <img src="https://rahulgrover99.github.io/images/hey.gif" width="32px">
 
 <!-- - 🔭 I’m currently working on [Recess](https://github.com/Jaagrav/Recess) -->
-- 🌱 I’m currently learning **React JS, Python, UI/UX**
+- 🌱 I’m currently learning **React Native, React JS, Python, UI/UX**
 
 - 👯 I’m looking to collaborate on **Java/Android/React Projects**
 
