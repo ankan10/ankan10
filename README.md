@@ -1,5 +1,3 @@
-![Ankan Chanda's-cover](./cover-image.png)
-
 ## 👨🏻‍💻 About Me
 
 <!-- - 🔭 I’m currently working on [Recess](https://github.com/Jaagrav/Recess) -->
