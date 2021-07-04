@@ -30,7 +30,7 @@ Here are some of my projects on Github that I am proud of:
 [![Cordion](https://github-readme-stats.vercel.app/api/pin/?username=Jaagrav&repo=Cordion&show_icons=true&theme=dark)](https://github.com/Jaagrav/Cordion)
 [![Recess](https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=Recess&show_icons=true&theme=dark)](https://github.com/Jaagrav/Recess) -->
 
-## 📚 My Skills
+<!-- ## 📚 My Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankan10&layout=compact&show_icons=true&theme=dark)](https://github.com/ankan10/ankan10)
 
@@ -55,7 +55,7 @@ Here are some of my projects on Github that I am proud of:
 ![Skill](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Skill](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Skill](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) -->
 
 ## 🤝 Connect
 
