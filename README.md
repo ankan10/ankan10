@@ -1,4 +1,4 @@
-## Hey, I'm Ankan! <img src="https://ankan10.github.io/images/hey.gif" width="32px">
+## Hey, I'm Ankan! <img src="https://rahulg99.github.io/images/hey.gif" width="32px">
 
 <!-- - 🔭 I’m currently working on [Recess](https://github.com/Jaagrav/Recess) -->
 - 🌱 I’m currently learning **Kotlin, React JS, ML, Python, UI/UX**
